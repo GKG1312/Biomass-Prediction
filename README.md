@@ -40,12 +40,10 @@ This prevents the "black box" model from predicting physically impossible biomas
 1. **Local Setup**: 
    ```bash
    pip install -r requirements.txt
-   python create_lupi_notebooks.py  # To regenerate notebooks if needed
    ```
-2. **Kaggle Run**:
-   - Upload `Training_LUPI_Advanced.ipynb`.
-   - Enable **GPU T4 x2** accelerator.
-   - Run All. The notebook will automatically handle Multi-GPU distribution and generate weight files.
+2. **Run**:
+   - `Training_LUPI_Advanced.ipynb`.
+   - Enable **GPU** accelerator.
 
 ---
 *Developed for the CSIRO Image2Biomass Prediction Challenge.*
