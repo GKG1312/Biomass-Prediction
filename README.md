@@ -1,4 +1,4 @@
-# 🌿 Verdant Mind: Advanced Pasture Biomass Prediction
+# 🌿 Pasture Biomass Prediction
 
 ![Banner](docs/banner.png)
 
