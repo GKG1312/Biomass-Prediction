@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seaborn
+pillow
+torch
+torchvision
+timm
+scikit-learn
+joblib
+albumentations
